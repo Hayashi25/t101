@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color: lightcyan;
+    font-family: 'DM Serif Display', serif;
+}
+
+nav{
+    background-color: cyan;
+}
+
+a{
+    color: darkblue;
+    text-decoration: none;
+    font-size: 28pt
+}
